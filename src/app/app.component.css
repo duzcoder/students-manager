@@ -1,0 +1,28 @@
+#w3-sidebar {
+    background-color: #f8f9fa;
+    border-right: 1px solid #ddd;
+    font-family: Arial, sans-serif;
+  }
+  
+  #w3-sidebar a {
+    color: #333;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 12px 20px;
+  }
+  
+  #w3-sidebar a:hover {
+    background-color: #e7e7e7;
+    color: #0056b3;
+  }
+  .w3-main {
+    background-color: #ffffff;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .w3-container {
+    margin-top: 20px;
+  }
+  
+  
